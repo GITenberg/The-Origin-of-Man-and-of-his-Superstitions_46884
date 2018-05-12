@@ -1,4 +1,8 @@
 _repo: The-Origin-of-Man-and-of-his-Superstitions_46884
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46884-h/images/cover.jpg
 creator:
   author:
     agent_name: Read, Carveth
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8030
     wikipedia: http://en.wikipedia.org/wiki/Carveth_Read
 description: This volume contains a history and study of magic and animism.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46884#The-Origin-of-Man-and-of-his-Superstitions
 gutenberg_issued: '2014-09-17'
 gutenberg_type: Text
 identifiers:
